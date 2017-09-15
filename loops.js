@@ -7,7 +7,6 @@ var forLoop = function(anArray){
 
 var whileLoop = function(aNumber){
   while(aNumber > 0){
-    aNumber--
     console.log(aNumber)
   }
 }
