@@ -6,8 +6,9 @@ var forLoop = function(anArray){
 }
 
 var whileLoop = function(aNumber){
-  while(aNumber => 1){
+  while(aNumber  1){
     console.log(aNumber)
     aNumber--
   }
+  return 'done'
 }
