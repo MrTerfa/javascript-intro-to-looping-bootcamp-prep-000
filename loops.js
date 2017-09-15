@@ -10,5 +10,5 @@ var whileLoop = function(aNumber){
     console.log(aNumber)
     aNumber--
   }
-  
+
 }
