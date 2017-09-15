@@ -21,4 +21,5 @@ var doWhileLoop = function(anArray){
     anArray.pop();
   }
   while(anArray.length > 0 && maybeTrue())
+  return anArray
 }
